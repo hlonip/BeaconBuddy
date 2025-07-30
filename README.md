@@ -2,7 +2,9 @@
 
 # BeaconBuddy
 
-BeaconBuddy is a real-time location sharing application designed to help you get found when you're lost. It provides your precise GPS coordinates, generates an AI-powered description of your surroundings, and allows you to share your location with friends or family through a unique 
+BeaconBuddy is a real-time location sharing application designed to help you get found when you're lost. It provides your precise GPS coordinates, generates an AI-powered description of your surroundings, and allows you to share your location with friends or family through a unique link.
+
+![BeaconBuddy Screenshot](https://placehold.co/800x600.png?text=BeaconBuddy+App)
 
 ## Features
 
@@ -92,11 +94,3 @@ GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 5.  Another Genkit flow uses a text-to-speech model to create an audio version of the description.
 6.  The user can play the audio or share the description, audio, and a unique location link via WhatsApp or other services.
 7.  A friend receiving the link can open it to see the user's location on a Google Map.
-
-## Video
-
-https://www.youtube.com/shorts/XSFv35MJN3https://www.youtube.com/shorts/XSFv35MJN3Q
-<img width="960" height="540" alt="one" src="https://github.com/user-attachments/assets/c858d3f7-450e-4d41-98d2-c7e5e19384c2" />
-
-![Screenshot_20250730_185801_Video Player](https://github.com/user-attachments/assets/a737d0ab-67de-4136-be4c-5cea91803f68)
-![Screenshot_20250730_185642_Gallery](https://github.com/user-attachments/assets/806f1a3d-7069-4f0c-86a0-524a626df935)
